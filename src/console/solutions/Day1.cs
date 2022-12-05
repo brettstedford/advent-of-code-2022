@@ -1,6 +1,6 @@
-﻿namespace console;
+﻿namespace console.solutions;
 
-public static class Solutions
+public static partial class Solutions
 {
     public static int Day1(string[] input)
     {
